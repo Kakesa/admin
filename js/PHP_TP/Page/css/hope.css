@@ -1,0 +1,207 @@
+
+
+
+.text-logo{
+    font-family: 'Holtwood one SC', sans-serif;
+    color: #e7480f;
+    text-shadow: 2px 2px #ffd301;
+    font-size: 50px;
+    padding: 40px 0px;
+    text-align: center;
+  }
+  
+
+
+  .thumbnail img{
+    background: #ffd301;
+  }
+
+  .prix{ 
+    background: #5cb85c;
+    color: #fff;
+    margin-right:350px;
+    text-align:center;
+    border-radius: 10px;
+    font-size: 20px;
+    right: 10px;
+  }
+
+
+
+  .thumbnail img{
+    background: #ffd301;
+  }
+
+table{
+    border:1px solid black;
+    border-collapse:collapse;
+    width:250px;
+  }
+
+   tr td{
+    border:1px solid black;
+  }
+
+
+
+
+   .caption > h4{
+    color: #e7480f;
+    font-size: 18px;
+  }
+
+
+
+
+   
+  p{
+    color: #000;
+  }
+
+  .text-logo{
+font-family: 'Holtwood one SC', sans-serif;
+color: #e7480f;
+text-shadow: 2px 2px #ffd301;
+font-size: 50px;
+padding: 40px 0px;
+text-align: center;
+}
+
+
+
+
+.text-logo .glyphicon{
+    color:#ffd301;
+    text-shadow: 0px 0px #ffd301;
+
+}
+
+.btn-order{
+    background: #e7480f;
+}
+
+.site{
+  font-family: 'Holtwood one SC', sans-serif;
+}
+ 
+
+
+
+.navbar li.active>, .navbar li.active a:focus,.navbar li.active a:hover{
+  background: #e7480f;
+}
+
+.navbar li a:hover{
+  color: #e7480f;
+  background-color: #eee;
+
+}
+
+
+.navbar li a{
+  color: #eee;
+  font-size: 25px;
+  text-shadow: 2px 2px #333;
+}
+
+
+
+.btn-order{
+  width: 100%;
+  padding: 10px;
+  font-size: 16;
+  color: #000;
+  background-color: #e7480f;
+  text-decoration: none;
+
+}¨
+
+
+.btn-order:hover, .btn-order:focus{
+  color: #fff;
+  background-color: #c13c0d;
+} 
+
+li{
+  color: #fff;
+  padding: 10px;
+  font-size: 20px;
+  text-decoration: none;
+ 
+}
+
+
+
+nav li{
+  background-color: black;
+  padding: 0;
+  margin: 0;
+}
+
+
+.navbar{
+  font-weight: 700;
+ 
+}
+
+ul{
+text-align: center;
+margin-right: 20px;
+margin-top: -30px;
+}
+
+
+ul li{
+  padding: 7px 13px;
+  font-size: 17px;
+  display: inline-block;
+}
+
+
+
+nav ul li{
+  list-style: none;
+  line-height: 50px;
+  float: left;
+  background-color: #64abfb;
+  width: auto;
+  z-index: 1;
+}
+
+
+nav ul li a{
+  color: #fff;
+  padding: 0;
+  font-size: 20px;
+  text-decoration: none;
+  
+}
+
+
+li a:hover{
+ border-bottom: 3px #fff solid;
+}
+
+
+
+/* ADMIn */
+
+.Admin{
+  background: #fff;
+  padding: 50px;
+  border-radius: 10px;
+}
+  
+
+
+
+.bi-hand-thumbs{
+  color: #ffd301;
+}
+
+
+.help-inline{
+  color:red;
+  
+}
+
